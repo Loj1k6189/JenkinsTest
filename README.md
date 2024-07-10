@@ -1,0 +1,1 @@
+This is a project made just for testing Jenkins's auto-project. It doesn't contain any code that might be useful for the project you are working for.
